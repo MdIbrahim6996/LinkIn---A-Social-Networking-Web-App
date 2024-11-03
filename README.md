@@ -4,7 +4,6 @@
 
 About This Project:
 
--   🚀 Project Setup
 -   🗄️ MongoDB Integration
 -   💳 Stripe Payment Setup
 -   🔐 Authentication System with JWT
@@ -18,7 +17,6 @@ About This Project:
 -   👥 Suggested Users Feature
 -   👍 Like and Comment on Posts
 -   📰 News Feed Algorithm
--   ⌛ And a lot more...
 
 ### Setup .env file
 
